@@ -1,0 +1,17 @@
+types:
+  Thing:
+    properties:
+      name: ~
+      identifier: ~
+  Person:
+    properties:
+      givenName: ~
+      familyName: ~
+      name: ~
+      alternateName: ~
+      birthDate: ~
+      birthPlace: ~
+      image: ~
+      email: ~
+      homepage: { range: "URL" }
+      sameAs: ~
