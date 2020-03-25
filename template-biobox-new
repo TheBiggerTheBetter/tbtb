@@ -1,0 +1,101 @@
+<!-- For instructions on how to fill the info below, go to http://www.boobpedia.com/boobs/Template:Biobox_new
+-->
+{{Biobox
+|             name = <!-- name not needed if same as page name -->
+|            photo = 
+|            alias = 
+
+|      birth month = 
+|        birth day = 
+|       birth year = 
+|        birth ref = 
+|   birth location = 
+
+|      death month = 
+|        death day = 
+|       death year = 
+|        death ref = 
+|   death location = 
+
+|     years active = <!-- enter specific years -- ex.: 2008-present -->
+|        ethnicity = 
+|       ethnicity2 = 
+|      nationality = 
+|     nationality2 = 
+
+|     measurements = 
+|     bra/cup size = {{bra||}}
+<!-- {{bra|<band size>|<cup size> -- e.g., {{bra|36|DD}} -->
+|     natural tits = 
+| natural tits ref = 
+|     implant type = 
+|  pierced nipples = 
+<!-- height and weight: enter each value after the = -->
+|           height = {{height|ft= |in= }}
+|           weight = {{weight|lb= }}
+|        body type = 
+|        eye color = 
+|       hair color = 
+|      hair color2 = 
+|      hair length = 
+|       hair shape = 
+|    underarm hair = 
+|       pubic hair = 
+|            blood = 
+
+|    playmatemonth = 
+|     playmateyear = 
+|         petmonth = 
+|          petyear = 
+
+|          topless = 
+|             bush = 
+|          frontal = 
+|             pink = 
+
+|             solo = 
+|        solodildo = 
+|      solofisting = 
+
+|          lesbian = 
+|     lesbiandildo = 
+|   lesbianfisting = 
+
+|          blowjob = 
+|         hardcore = 
+|             anal = 
+|               dp = 
+|          fisting = 
+
+|          bondage = 
+|      watersports = 
+|       fistingmen = 
+
+|         homepage = 
+|             blog = 
+|          twitter = <!-- username only, not full URL -->
+|        instagram = <!-- username only, not full URL -->
+|          youtube = <!-- username only, not full URL -->
+|  youtube channel = <!-- channel ID only, not full URL -->
+
+|      modelmayhem = <!-- username/ID number only, not full URL -->
+|    onemodelplace = <!-- ID number only, not full URL -->
+|       deviantart = <!-- username only, not full URL -->
+|           flickr = <!-- username only, not full URL -->
+
+|             imdb = <!-- only enter number after name/nm from IMDb URL -->
+|             iafd = 
+|             afdb = 
+|            egafd = 
+|            bgafd = 
+}}
+
+'''ENTER NAME HERE''' is an [[adult model]]<!-- , [[porn star]], [[glamour model]] -->.
+
+<!-- Add appropriate categories here. Activate the existing category by removing <!-- and -->
+<!--[[Category:Adult models]]-->
+
+<!-- Remove this line and all the text below before saving the article -->
+
+* See {{tl|Biobox new}} for instructions how to fill in the biobox parameters.
+{{#ifeq:{{PAGENAME}}|New performerarticle|[[Category:Performer templates| 3]][[Category:{{SITENAME}} metatemplates|{{PAGENAME}}]]}}
